@@ -1,0 +1,246 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building SimpleOptimizerV3_exec 0.1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.5.0:java (default-cli) @ SimpleOptimizerV3_exec ---
+
+-------------------------------------------------------------------
+GMS: address=vagrant-27693, cluster=SimpleOptimizerV31, physical address=172.16.119.10:55572
+-------------------------------------------------------------------
+00:26:18.603 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting on readyToPopulate...
+00:26:18.858 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - ...synchronized on readyToPopulate
+00:26:18.864 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting on readyToRun...
+00:26:19.132 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - ...synchronized on readyToRun
+00:26:19.143 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - started logical time progression
+00:26:19.146 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 6,1
+Received random numbers as6, 1
+00:26:19.161 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 6, 1
+Here is the result
+7
+7
+0.0
+7
+00:26:19.202 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 7
+00:26:19.984 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 9,1
+Received random numbers as9, 1
+00:26:19.992 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 9, 1
+Here is the result
+10
+10
+1.0
+10
+00:26:20.011 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 10
+00:26:21.004 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 6,8
+Received random numbers as6, 8
+00:26:21.014 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 6, 8
+Here is the result
+14
+14
+2.0
+14
+00:26:21.039 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 14
+00:26:22.027 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 6,5
+Received random numbers as6, 5
+00:26:22.035 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 6, 5
+Here is the result
+11
+11
+3.0
+11
+00:26:22.052 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 11
+00:26:23.055 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 2,6
+Received random numbers as2, 6
+00:26:23.066 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 2, 6
+Here is the result
+8
+8
+4.0
+8
+00:26:23.087 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 8
+00:26:24.083 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 9,9
+Received random numbers as9, 9
+00:26:24.090 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 9, 9
+Here is the result
+18
+18
+5.0
+18
+00:26:24.106 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 18
+00:26:25.106 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 4,0
+Received random numbers as4, 0
+00:26:25.114 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 4, 0
+Here is the result
+4
+4
+6.0
+4
+00:26:25.135 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 4
+00:26:26.139 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 2,3
+Received random numbers as2, 3
+00:26:26.148 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 2, 3
+Here is the result
+5
+5
+7.0
+5
+00:26:26.173 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 5
+00:26:27.151 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 3,0
+Received random numbers as3, 0
+00:26:27.158 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 3, 0
+Here is the result
+3
+3
+8.0
+3
+00:26:27.175 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 3
+00:26:28.172 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 4,8
+Received random numbers as4, 8
+00:26:28.178 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 4, 8
+Here is the result
+12
+12
+9.0
+12
+00:26:28.209 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 12
+00:26:29.201 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 0,7
+Received random numbers as0, 7
+00:26:29.209 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 0, 7
+Here is the result
+7
+7
+10.0
+7
+00:26:29.227 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 7
+00:26:30.215 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 1,6
+Received random numbers as1, 6
+00:26:30.224 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 1, 6
+Here is the result
+7
+7
+11.0
+7
+00:26:30.243 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 7
+00:26:31.241 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 6,6
+Received random numbers as6, 6
+00:26:31.249 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 6, 6
+Here is the result
+12
+12
+12.0
+12
+00:26:31.269 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 12
+00:26:32.259 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 6,8
+Received random numbers as6, 8
+00:26:32.266 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 6, 8
+Here is the result
+14
+14
+13.0
+14
+00:26:32.285 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 14
+00:26:33.286 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 6,1
+Received random numbers as6, 1
+00:26:33.292 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 6, 1
+Here is the result
+7
+7
+14.0
+7
+00:26:33.311 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 7
+00:26:34.312 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 4,0
+Received random numbers as4, 0
+00:26:34.318 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 4, 0
+Here is the result
+4
+4
+15.0
+4
+00:26:34.337 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 4
+00:26:35.331 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 4,2
+Received random numbers as4, 2
+00:26:35.340 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 4, 2
+Here is the result
+6
+6
+16.0
+6
+00:26:35.361 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 6
+00:26:36.348 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 2,4
+Received random numbers as2, 4
+00:26:36.356 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 2, 4
+Here is the result
+6
+6
+17.0
+6
+00:26:36.376 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 6
+00:26:37.370 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 3,1
+Received random numbers as3, 1
+00:26:37.376 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 3, 1
+Here is the result
+4
+4
+18.0
+4
+00:26:37.394 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 4
+00:26:38.406 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 9,9
+Received random numbers as9, 9
+00:26:38.412 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 9, 9
+Here is the result
+18
+18
+19.0
+18
+00:26:38.432 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 18
+00:26:39.421 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 9,2
+Received random numbers as9, 2
+00:26:39.427 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 9, 2
+Here is the result
+11
+11
+20.0
+11
+00:26:39.444 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 11
+00:26:40.447 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 5,7
+Received random numbers as5, 7
+00:26:40.454 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 5, 7
+Here is the result
+12
+12
+21.0
+12
+00:26:40.477 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 12
+00:26:41.471 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 3,0
+Received random numbers as3, 0
+00:26:41.478 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Received random numbers as 3, 0
+Here is the result
+3
+3
+22.0
+3
+00:26:41.500 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - Sent sendModel interaction with 3

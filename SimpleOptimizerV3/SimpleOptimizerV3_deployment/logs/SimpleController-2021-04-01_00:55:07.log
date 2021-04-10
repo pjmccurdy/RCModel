@@ -1,0 +1,19 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building SimpleOptimizerV3_exec 0.1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.5.0:java (default-cli) @ SimpleOptimizerV3_exec ---
+
+-------------------------------------------------------------------
+GMS: address=vagrant-64605, cluster=SimpleOptimizerV31, physical address=172.16.119.10:55834
+-------------------------------------------------------------------
+00:55:47.072 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting on readyToPopulate...
+00:55:47.328 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - ...synchronized on readyToPopulate
+00:55:47.333 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting on readyToRun...
+00:55:47.593 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - ...synchronized on readyToRun
+00:55:47.595 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - started logical time progression
+00:55:47.596 [org.webgme.guest.simplecontroller.SimpleController.main()] INFO  org.webgme.guest.simplecontroller.SimpleController - waiting to receive SimTime...
+holder received as: 20.0
+00:55:47.605 [org.webgme.guest.simplecontroller.SimpleController.main()] ERROR org.webgme.guest.simplecontroller.SimpleController - java.lang.ArrayIndexOutOfBoundsException: 1

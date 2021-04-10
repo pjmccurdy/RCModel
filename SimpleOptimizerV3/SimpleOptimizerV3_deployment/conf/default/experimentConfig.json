@@ -1,0 +1,26 @@
+{
+  "federateTypesAllowed": [
+    "RCModel",
+    "SimpleController"
+  ],
+  "expectedFederates": [
+    {
+      "federateType": "RCModel",
+      "count": 1
+    },
+    {
+      "federateType": "SimpleController",
+      "count": 1
+    }
+  ],
+  "lateJoinerFederates": [
+    {
+      "federateType": "RCModel",
+      "count": 0
+    },
+    {
+      "federateType": "SimpleController",
+      "count": 0
+    }
+  ]
+}
